@@ -1,1 +1,11 @@
 1000 milisaniye = 1 saniye
+
+Timer kullanarak Alarm - Kronometre ve Dijital Saat Projesi
+Rastgele Kart Eşleştirme Oyunu
+Ganyan Projesi
+Adam Asmaca Projesi
+Windows Hesap Makinesi - Sender Kullanımı
+
+Personel Otomasyonu - Personel Takip Sistemi (zor)
+
+Web Browser Uygulaması

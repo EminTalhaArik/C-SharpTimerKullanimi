@@ -8,3 +8,4 @@ D:\Belgeler\Projeler\Yazilim_Projeleri\TimerKullanimi\TimerKullanimi\obj\Debug\T
 D:\Belgeler\Projeler\Yazilim_Projeleri\TimerKullanimi\TimerKullanimi\obj\Debug\TimerKullanimi.csproj.CoreCompileInputs.cache
 D:\Belgeler\Projeler\Yazilim_Projeleri\TimerKullanimi\TimerKullanimi\obj\Debug\TimerKullanimi.exe
 D:\Belgeler\Projeler\Yazilim_Projeleri\TimerKullanimi\TimerKullanimi\obj\Debug\TimerKullanimi.pdb
+D:\Belgeler\Projeler\Yazilim_Projeleri\TimerKullanimi\TimerKullanimi\obj\Debug\TimerKullanimi.LoadingForm.resources
