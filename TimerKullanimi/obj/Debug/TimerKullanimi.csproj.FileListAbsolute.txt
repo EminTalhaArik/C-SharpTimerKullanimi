@@ -1,0 +1,10 @@
+D:\Belgeler\Projeler\Yazilim_Projeleri\TimerKullanimi\TimerKullanimi\bin\Debug\TimerKullanimi.exe.config
+D:\Belgeler\Projeler\Yazilim_Projeleri\TimerKullanimi\TimerKullanimi\bin\Debug\TimerKullanimi.exe
+D:\Belgeler\Projeler\Yazilim_Projeleri\TimerKullanimi\TimerKullanimi\bin\Debug\TimerKullanimi.pdb
+D:\Belgeler\Projeler\Yazilim_Projeleri\TimerKullanimi\TimerKullanimi\obj\Debug\TimerKullanimi.csprojAssemblyReference.cache
+D:\Belgeler\Projeler\Yazilim_Projeleri\TimerKullanimi\TimerKullanimi\obj\Debug\TimerKullanimi.Form1.resources
+D:\Belgeler\Projeler\Yazilim_Projeleri\TimerKullanimi\TimerKullanimi\obj\Debug\TimerKullanimi.Properties.Resources.resources
+D:\Belgeler\Projeler\Yazilim_Projeleri\TimerKullanimi\TimerKullanimi\obj\Debug\TimerKullanimi.csproj.GenerateResource.cache
+D:\Belgeler\Projeler\Yazilim_Projeleri\TimerKullanimi\TimerKullanimi\obj\Debug\TimerKullanimi.csproj.CoreCompileInputs.cache
+D:\Belgeler\Projeler\Yazilim_Projeleri\TimerKullanimi\TimerKullanimi\obj\Debug\TimerKullanimi.exe
+D:\Belgeler\Projeler\Yazilim_Projeleri\TimerKullanimi\TimerKullanimi\obj\Debug\TimerKullanimi.pdb
